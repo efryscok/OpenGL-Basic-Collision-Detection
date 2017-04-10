@@ -1,6 +1,8 @@
 # OpenGL-Basic-Collision-Detection
 Simple simulation to show basic sphere-sphere collision and sphere-triangle collision
 
+Demonstration video can be found on YouTube: https://youtu.be/zWlC1rfUPhM
+
 Controls:
 
 Enter - Reset simulation
